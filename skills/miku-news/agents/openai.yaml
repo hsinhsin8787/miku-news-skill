@@ -1,0 +1,4 @@
+interface:
+  display_name: "Miku News"
+  short_description: "Draft evidence-aware, issue-led Chinese press releases."
+  default_prompt: "Use $miku-news to draft a Taiwanese Chinese press release from this brief."
