@@ -13,7 +13,7 @@ The goal is not to disguise promotion. Give the reader a useful perspective befo
 ## Headline patterns
 
 - **Pain point or tension + expert perspective**: Make the reader situation specific, then name the relevant authority.
-- **Trend or data point + practical implication**: Use only a sourced number; otherwise describe the trend without false precision.
+- **Trend or data point + practical implication**: Use only a source-verified figure, expressed as a truthful range or natural proportion; otherwise describe the trend without false precision.
 - **Person's turning point + new contribution**: Best for books, new programs, or feature stories.
 - **Event outcome + the one industry insight it established**: Best for recap releases.
 - **Seasonal situation + usable method**: Best for lifestyle or service content.
@@ -25,7 +25,7 @@ Prefer a clear outcome or question over vague adjectives. Keep the central claim
 1. Headline and image caption.
 2. Timely trend, policy change, market shift, or familiar reader tension.
 3. Why the tension matters to the chosen audience.
-4. Expert's diagnosis and relevant credentials.
+4. Expert's diagnosis and one experience paragraph grounded in prior news coverage.
 5. Method, plain-language explanation, case, or practical examples.
 6. Program, service, book, or initiative that extends the solution.
 7. One memorable closing perspective or CTA.
@@ -46,7 +46,7 @@ Do not begin with a long résumé. Make the personal story serve the current new
 ## 3. Event preheat
 
 1. Current market or social context.
-2. Date, venue, organizer, theme, and key audience.
+2. Verified timing expressed naturally, plus venue, organizer, theme, and key audience.
 3. One speaker's distinctive insight or preview case.
 4. What attendees can learn, compare, or take away.
 5. Registration CTA and verified link.
@@ -55,7 +55,7 @@ Give one useful preview, not only a speaker list.
 
 ## 4. Event recap
 
-1. Event outcome with exact attendance terminology and date.
+1. Event outcome with the correct attendance terminology, a generalized sourced figure, and natural time language.
 2. Organizer, partners, theme, and why it mattered.
 3. One or two exclusive insights, examples, or quotes from the event.
 4. A distinct angle for each follow-up speaker story.
@@ -65,9 +65,9 @@ Treat the main recap as a broad industry story. Make each follow-up story stand 
 
 ## 5. Public-interest, charity, or ESG action
 
-1. Date, place, beneficiary need, and concrete action.
+1. Natural time language, place, beneficiary need, and concrete action.
 2. Beneficiary's mission, scale, or first-hand quote.
-3. Donated items, amount, service, or renovation outcome, including why it meets the need.
+3. Donated items, a source-verified but editorially generalized amount, service, or renovation outcome, including why it meets the need.
 4. Donor's local or personal connection and attributed perspective.
 5. Measurable impact and a suitable way for readers to participate, if any.
 
@@ -85,7 +85,7 @@ Let the practical advice carry the story. Keep commercial information light.
 
 ## Evidence and attribution rules
 
-- Attribute facts to a named source; include source date, measurement period, and scope where possible.
+- Attribute facts to a named source. Record the exact source date, value, measurement period, and scope in research notes, but generalize dates, money, and percentages in the release itself.
 - Distinguish an external fact from an expert observation and an organization's own result.
 - Explain what a percentage, saving, growth figure, ranking, or customer outcome measures. Avoid implying a universal result from one case.
 - Use neutral descriptions unless an independent source supports a comparative claim.
